@@ -45,4 +45,5 @@ def naming_system
   hoh[:sub_category][:sub_category][:sub_category] = PORTION_2
   hoh[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
   hoh[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
+  hoh
 end
